@@ -1,2 +1,2 @@
 # Xodo-Bot
-Real Xodo Bot Discord Official: https://discord.io/Xodo
+Real Xodo Bot Discord Official: https://discord.gg/Xodo
