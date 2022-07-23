@@ -1,2 +1,2 @@
-# Xodo-Bot
-Real Xodo Bot Discord Official: https://discord.gg/Xodo
+# Xodo bot unfortunately won't be back.
+I hope you enjoyed the bot as it will not be active anymore!
